@@ -1,2 +1,4 @@
 # Advanced-Mining
-wanting to mine ? here is the perfect tool to do so !
+- are you wanting to mine crypto? here is the perfect tool to do so!
+
+supported coins : all coins can be mined!
